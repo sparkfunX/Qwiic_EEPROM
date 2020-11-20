@@ -17,8 +17,8 @@ Documentation
 ------------
 
 * **[SparkFun External EEPROM Arduino Library](https://github.com/sparkfun/SparkFun_External_EEPROM_Arduino_Library)** - Arduino library for the Qwiic EEPROM - 512Kbit
-* **[Datasheet CAT24C512](https://www.onsemi.com/pub/Collateral/CAT24C512-D.PDF)** - * Datasheet for EEPROM part number 24512A
-* **[Datasheet RM24C512C](https://cdn.sparkfun.com/assets/2/c/4/c/0/DS-RM24C512C_082.pdf)** - * Datasheet for EEPROM part number 24512C
+* **[Datasheet CAT24C512](https://www.onsemi.com/pub/Collateral/CAT24C512-D.PDF)** - Datasheet for EEPROM part number 24512A
+* **[Datasheet RM24C512C](https://cdn.sparkfun.com/assets/2/c/4/c/0/DS-RM24C512C_082.pdf)** - Datasheet for EEPROM part number 24512C
 * **[Reading and Writing Serial EEPROMs](https://learn.sparkfun.com/tutorials/reading-and-writing-serial-eeproms)** - Tutorial  
 
 License Information
